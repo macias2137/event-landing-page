@@ -1,7 +1,6 @@
 "use client";
 
 import { IconButton, Button, Typography } from "@material-tailwind/react";
-import { PlayIcon } from "@heroicons/react/24/solid";
 
 function Hero() {
   return (
