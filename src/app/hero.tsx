@@ -10,7 +10,7 @@ function Hero() {
       <div className="grid min-h-screen px-8">
         <div className="container relative z-10 my-auto mx-auto grid place-items-center text-center">
           <Typography variant="h3" color="white" className="mb-2">
-            26 October 2023, 4pm (GMT +2)
+            26 October 2023, 4pm-6pm (GMT +2)
           </Typography>
           <Typography variant="h1" color="white" className="lg:max-w-3xl">
             The Best of Sevilla 2024

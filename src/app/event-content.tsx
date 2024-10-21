@@ -6,28 +6,32 @@ import EventContentCard from "@/components/event-content-card";
 
 const EVENT_CONTENT = [
   {
-    title: "AI's Role in Shaping the Future",
-    des: "Discover how AI is revolutionizing industries, creating new possibilities, and addressing global challenges. Gain a deep understanding of the pivotal role AI plays in driving innovation, sustainability, and progress in our rapidly evolving world.",
-    name: "Marcell Glock",
-    position: "Chief Executive, Spotify",
-    panel: "Panel Discussion",
-    img: "/image/avatar1.jpg",
+    title: "Additive homeopathy in NSCLC patients: a valid paper",
+
+    name: "Dr Michael Frass, MD",
+    position:
+      "Professor of Medicine Retired, Medical University of Vienna, Austria",
+    panel: "Presentation",
   },
   {
-    title: "Introduction to Machine Learning",
-    des: "Explore the basic principles, algorithms, and applications of Machine Learning. Through hands-on exercises and practical examples, you'll develop a solid understanding of how Machine Learning powers AI-driven solutions.",
-    name: "Marcell Glock",
-    position: "Chief Executive, Spotify",
-    panel: "Workshop",
-    img: "/image/avatar2.jpg",
+    title: "Case presentation: infective endocarditis",
+    name: "Dr Herman Jeggels, MD (VU Ams), MRCP (UK), FBIH (Hon), DHM (Hon)",
+    position: "Private Practice, Kuils River, South Africa",
+    panel: "Presentation",
   },
   {
-    title: "AI in Healthcare: Revolutionizing Patient Care",
-    des: "This session is a must-attend for healthcare professionals, AI enthusiasts, and anyone interested in the intersection of technology and well-being. Join us as we discuss how AI is bringing about positive changes in healthcare.",
-    name: "Marcell Glock",
-    position: "Chief Executive, Spotify",
-    panel: "Workshop",
-    img: "/image/avatar3.jpg",
+    title: "Organon and Nowadays Medicine",
+    name: "Dr Sanjay Modi",
+    position: "SMT.C.M.P. Homoeopathic Medical College, Mumbai",
+    panel: "Presentation",
+  },
+  {
+    title:
+      "Fungi's Secret: Exploring the Healing Power of a Unique Homeopathic Remedy",
+    name: "Dr Shailendra Vaishampayan, MD",
+    position:
+      "Homeopathic Practitioner, educator, author, researcher, documentary filmmaker, podcaster",
+    panel: "Presentation",
   },
 ];
 

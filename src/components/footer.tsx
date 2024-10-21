@@ -21,9 +21,15 @@ export function Footer() {
             Don&apos;t miss out!
           </Typography>
           <div className="flex w-full md:w-fit gap-3 mt-2 flex-col md:flex-row">
-            <Button color="white" size="md">
-              Register
-            </Button>
+            <a
+              href="https://forms.gle/YH9ReYRYxMdCDdFFA"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <Button color="white" size="md">
+                Register
+              </Button>
+            </a>
           </div>
         </div>
       </div>
