@@ -14,11 +14,11 @@ export default function Portfolio() {
     <>
       <Navbar />
       <Hero />
-      <SponsoredBy />
-      <AboutEvent />
-      <OurStats />
+      {/* <SponsoredBy /> */}
+      {/* <AboutEvent /> */}
+      {/* <OurStats /> */}
       <EventContent />
-      <Faq />
+      {/* <Faq /> */}
       <Footer />
     </>
   );

@@ -1,13 +1,8 @@
 "use client";
 
-import {
-  Tab,
-  Tabs,
-  TabsHeader,
-} from "@material-tailwind/react";
+import { Tab, Tabs, TabsHeader } from "@material-tailwind/react";
 
 import EventContentCard from "@/components/event-content-card";
-
 
 const EVENT_CONTENT = [
   {
@@ -41,7 +36,7 @@ export function EventContent() {
     <section className="py-8 px-8 lg:py-20">
       <Tabs value="Day1" className="mb-8">
         <div className="w-full flex mb-8 flex-col items-center">
-          <TabsHeader className="h-12 w-72 md:w-96">
+          {/* <TabsHeader className="h-12 w-72 md:w-96">
             <Tab value="Day1" className="font-medium">
               Day 1
             </Tab>
@@ -51,7 +46,7 @@ export function EventContent() {
             <Tab value="Day3" className="font-medium">
               Day 3
             </Tab>
-          </TabsHeader>
+          </TabsHeader> */}
         </div>
       </Tabs>
       <div className="mx-auto container">
