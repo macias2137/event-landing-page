@@ -7,31 +7,39 @@ import EventContentCard from "@/components/event-content-card";
 const EVENT_CONTENT = [
   {
     title: "Additive homeopathy in NSCLC patients: a valid paper",
-
+    description: "",
     name: "Dr Michael Frass, MD",
     position:
       "Professor of Medicine Retired, Medical University of Vienna, Austria",
     panel: "Presentation",
+    image: "",
   },
   {
     title: "Case presentation: infective endocarditis",
+    description: "",
     name: "Dr Herman Jeggels, MD (VU Ams), MRCP (UK), FBIH (Hon), DHM (Hon)",
     position: "Private Practice, Kuils River, South Africa",
     panel: "Presentation",
+    image: "",
   },
   {
     title: "Organon and Nowadays Medicine",
+    description: "",
     name: "Dr Sanjay Modi",
     position: "SMT.C.M.P. Homoeopathic Medical College, Mumbai",
     panel: "Presentation",
+    image: "",
   },
   {
     title:
       "Fungi's Secret: Exploring the Healing Power of a Unique Homeopathic Remedy",
+
+    description: "",
     name: "Dr Shailendra Vaishampayan, MD",
     position:
       "Homeopathic Practitioner, educator, author, researcher, documentary filmmaker, podcaster",
     panel: "Presentation",
+    image: "",
   },
 ];
 

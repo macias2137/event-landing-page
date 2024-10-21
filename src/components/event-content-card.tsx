@@ -17,11 +17,10 @@ interface EventContentCardProps {
 }
 export function EventContentCard({
   title,
-  des,
+
   name,
   position,
   panel,
-  img,
 }: EventContentCardProps) {
   return (
     <Card
