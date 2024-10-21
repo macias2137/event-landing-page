@@ -9,15 +9,14 @@ import {
 
 interface EventContentCardProps {
   title: string;
-  des: string;
+  // des: string;
   name: string;
   position: string;
   panel: string;
-  img: string;
+  // img: string;
 }
 export function EventContentCard({
   title,
-
   name,
   position,
   panel,
