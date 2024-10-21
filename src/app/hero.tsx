@@ -13,23 +13,32 @@ function Hero() {
             26 October 2023, 4pm (GMT +2)
           </Typography>
           <Typography variant="h1" color="white" className="lg:max-w-3xl">
-            The Best of Sevilla 2024 - Highlights of the 77th LMHI World
-            Homeopathic Congress (part 1)
+            The Best of Sevilla 2024
+          </Typography>
+          <Typography
+            variant="h2"
+            color="white"
+            className="mt-1 mb-12 w-full md:max-w-full lg:max-w-2xl"
+          >
+            Highlights of the 77th LMHI World Homeopathic Congress (part 1)
           </Typography>
           <Typography
             variant="lead"
             color="white"
-            className="mt-1 mb-12 w-full md:max-w-full lg:max-w-2xl"
+            className="mt-1 mb-12 w-full"
           >
-            Join us for the webinar featuring world's leading homeopaths
+            Join us for the free webinar featuring world's leading homeopaths!
           </Typography>
           <div className="flex items-center gap-4">
-            <Button variant="gradient" color="white">
-              Get started
-            </Button>
-            <IconButton className="rounded-full bg-white p-6">
-              <PlayIcon className="h-4 w-4 text-gray-900" />
-            </IconButton>
+            <a
+              href="https://forms.gle/YH9ReYRYxMdCDdFFA"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <Button variant="gradient" color="white">
+                Register now for free
+              </Button>
+            </a>
           </div>
         </div>
       </div>
