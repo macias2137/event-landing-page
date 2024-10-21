@@ -27,7 +27,8 @@ function Hero() {
             color="white"
             className="mt-1 mb-12 w-full"
           >
-            Join us for the free webinar featuring world's leading homeopaths!
+            Join us for the free webinar featuring world`&apos;`s leading
+            homeopaths!
           </Typography>
           <div className="flex items-center gap-4">
             <a
