@@ -9,7 +9,7 @@ function Hero() {
       <div className="grid min-h-screen px-8">
         <div className="container relative z-10 my-auto mx-auto grid place-items-center text-center">
           <Typography variant="lead" color="white" className="mb-2">
-            26 October 2023, 4pm-6pm (GMT +2)
+            26 October 2024, 4&nbsp;pm&ndash;6&nbsp;pm (UTC+2)
           </Typography>
           <Typography variant="h1" color="white" className="lg:max-w-3xl">
             The Best of Sevilla 2024
@@ -26,7 +26,7 @@ function Hero() {
             color="white"
             className="mt-1 mb-12 w-full"
           >
-            Join us for the free webinar featuring world`&apos;`s leading
+            Join us for the free webinar featuring world&apos;s leading
             homeopaths!
           </Typography>
           <div className="flex items-center gap-4">
