@@ -8,11 +8,11 @@ function Hero() {
       <div className="absolute inset-0 h-full w-full bg-gray-900/60" />
       <div className="grid min-h-screen px-8">
         <div className="container relative z-10 my-auto mx-auto grid place-items-center text-center">
-          <Typography variant="h1" color="white" className="lg:max-w-3xl">
+          <Typography variant="h2" color="white" className="lg:max-w-3xl">
             The Best of Sevilla 2024
           </Typography>
           <Typography
-            variant="h3"
+            variant="h4"
             color="white"
             className="mt-1 mb-12 w-full md:max-w-full lg:max-w-2xl"
           >
