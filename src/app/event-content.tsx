@@ -24,7 +24,7 @@ const EVENT_CONTENT = [
     name: "Dr Herman Jeggels, MD (VU Ams), MRCP (UK), FBIH (Hon), DHM (Hon)",
     position: "Private Practice, Kuils River, South Africa",
     panel: "Presentation",
-    image: "/image/jeggels-photo-min.jpg",
+    image: "../../public/image/jeggels-photo-min.jpg",
   },
   {
     title: "Organon and Nowadays Medicine",
@@ -32,7 +32,7 @@ const EVENT_CONTENT = [
     name: "Dr Sanjay Modi",
     position: "SMT.C.M.P. Homoeopathic Medical College, Mumbai",
     panel: "Presentation",
-    image: "/image/modi-photo-min.jpeg",
+    image: "../../public/image/modi-photo-min.jpeg",
   },
   {
     title:
@@ -43,7 +43,7 @@ const EVENT_CONTENT = [
     position:
       "Homeopathic Practitioner, educator, author, researcher, documentary filmmaker, podcaster",
     panel: "Presentation",
-    image: "vaishampayan-photo.jpg",
+    image: "../../public/vaishampayan-photo.jpg",
   },
 ];
 
