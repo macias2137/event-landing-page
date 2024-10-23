@@ -4,9 +4,9 @@ import { Tab, Tabs, TabsHeader } from "@material-tailwind/react";
 
 import EventContentCard from "@/components/event-content-card";
 
-import modi from "../../public/image/modi photo-min.jpeg";
-import jeggels from "../../public/image/jeggels photo-min.jpg";
-import dr_v from "../../public/image/vaishampayan photo.jpg";
+import modi from "../../public/image/modi-photo-min.jpeg";
+import jeggels from "../../public/image/jeggels-photo-min.jpg";
+import dr_v from "../../public/image/vaishampayan-photo.jpg";
 
 const EVENT_CONTENT = [
   {
@@ -24,7 +24,7 @@ const EVENT_CONTENT = [
     name: "Dr Herman Jeggels, MD (VU Ams), MRCP (UK), FBIH (Hon), DHM (Hon)",
     position: "Private Practice, Kuils River, South Africa",
     panel: "Presentation",
-    image: jeggels,
+    image: "/image/jeggels-photo-min.jpg",
   },
   {
     title: "Organon and Nowadays Medicine",
