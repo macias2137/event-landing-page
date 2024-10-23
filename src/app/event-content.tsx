@@ -32,7 +32,7 @@ const EVENT_CONTENT = [
     name: "Dr Sanjay Modi",
     position: "SMT.C.M.P. Homoeopathic Medical College, Mumbai",
     panel: "Presentation",
-    image: modi,
+    image: "/image/modi-photo-min.jpeg",
   },
   {
     title:
@@ -43,7 +43,7 @@ const EVENT_CONTENT = [
     position:
       "Homeopathic Practitioner, educator, author, researcher, documentary filmmaker, podcaster",
     panel: "Presentation",
-    image: dr_v,
+    image: "vaishampayan-photo.jpg",
   },
 ];
 
