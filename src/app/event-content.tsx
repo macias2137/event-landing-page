@@ -16,7 +16,7 @@ const EVENT_CONTENT = [
     position:
       "Professor of Medicine Retired, Medical University of Vienna, Austria",
     panel: "Presentation",
-    img: "",
+    img: "/image/frass-photo.jpg",
   },
   {
     title: "Case presentation: infective endocarditis",
@@ -29,7 +29,7 @@ const EVENT_CONTENT = [
   {
     title: "Organon and Nowadays Medicine",
     description: "",
-    name: "Dr Sanjay Modi",
+    name: "Dr Sanjay Modi, MD",
     position: "SMT.C.M.P. Homoeopathic Medical College, Mumbai",
     panel: "Presentation",
     img: "/image/modi-photo-min.jpeg",
