@@ -35,8 +35,8 @@ export function EventContentCard({
         className="h-[32rem] max-w-[28rem] shrink-0"
       >
         <Image
-          width={768}
-          height={768}
+          width={400}
+          height={400}
           src={img}
           alt="testimonial image"
           className="h-full w-full object-cover"

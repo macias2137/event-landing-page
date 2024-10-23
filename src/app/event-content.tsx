@@ -10,7 +10,8 @@ import EventContentCard from "@/components/event-content-card";
 
 const EVENT_CONTENT = [
   {
-    title: "Additive homeopathy in NSCLC patients: a valid paper",
+    title:
+      "Additive homeopathy in Non Small Cell Lung Carcinoma patients: a valid paper",
     description: "",
     name: "Dr Michael Frass, MD",
     position:
@@ -19,7 +20,7 @@ const EVENT_CONTENT = [
     img: "/image/frass-photo.jpg",
   },
   {
-    title: "Case presentation: infective endocarditis",
+    title: "Case presentation: Infective Endocarditis",
     description: "",
     name: "Dr Herman Jeggels, MD (VU Ams), MRCP (UK), FBIH (Hon), DHM (Hon)",
     position: "Private Practice, Kuils River, South Africa",
