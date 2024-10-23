@@ -34,13 +34,13 @@ export function EventContentCard({
         shadow={false}
         className="h-[32rem] max-w-[28rem] shrink-0"
       >
-        {/* <Image
+        <Image
           width={768}
           height={768}
           src={img}
           alt="testimonial image"
           className="h-full w-full object-cover"
-        /> */}
+        />
       </CardHeader>
       <CardBody className="col-span-full lg:col-span-3">
         <Typography variant="h6" color="blue-gray" className="mb-4">
