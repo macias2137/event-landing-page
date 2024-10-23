@@ -29,7 +29,10 @@ export default function RootLayout({
           src="https://api.nepcha.com/js/nepcha-analytics.js"
         ></script>
         <link rel="shortcut icon" href="/favicon.png" type="image/png" />
-        <title>The Best Of Sevilla 2024 Webinar</title>
+        <title>
+          The Best Of Sevilla 2024 - Highlights of the 77th LMHI World
+          Homeopathic Congress (part 1) webinar
+        </title>
       </head>
       <body className={roboto.className}>
         <Layout>
