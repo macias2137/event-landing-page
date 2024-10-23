@@ -32,7 +32,7 @@ export function EventContentCard({
       <CardHeader
         floated={false}
         shadow={false}
-        className="h-[21rem] w-[21rem] shrink-0"
+        className="h-[15rem] w-[15rem] shrink-0"
       >
         <Image
           width={400}
