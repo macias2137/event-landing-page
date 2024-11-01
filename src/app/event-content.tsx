@@ -30,7 +30,7 @@ const EVENT_CONTENT = [
   {
     title: "Organon and Nowadays Medicine",
     description: "",
-    name: "Dr Sanjay Modi, MD",
+    name: "Dr Sanjay Modi, LCEH",
     position: "SMT.C.M.P. Homoeopathic Medical College, Mumbai",
     panel: "Presentation",
     img: "/image/modi-photo-min.jpeg",
