@@ -31,7 +31,7 @@ const EVENT_CONTENT = [
     title:
       "Actinides in Homeopathy - Threshold of death and a path to inner transformation",
     description: "",
-    name: "Didier Lustig, LNHF, Paris, France",
+    name: "Didier Lustig, INHF, Paris, France",
     position: "Paris, France",
     panel: "Presentation",
     // img: "/image/modi-photo-min.jpeg",
