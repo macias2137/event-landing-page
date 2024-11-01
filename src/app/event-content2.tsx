@@ -9,8 +9,7 @@ import EventContentCard from "@/components/event-content-card";
 // import dr_v from "../../public/image/vaishampayan-photo.jpg";
 // Didier Lustig, LNHF, Paris, France
 // "Actinides in Homeopathy - Threshold of death and the way to inner transformation".
-Dr Yogesh Honrao, MD, Nashik, India
-"Homoeopathic Management in a Case of Subacute Brachial Artery Thrombosis".
+
 const EVENT_CONTENT = [
   {
     title:
@@ -48,7 +47,7 @@ const EVENT_CONTENT = [
   },
 ];
 
-export function EventContent() {
+export function EventContent2() {
   return (
     <section className="py-8 px-8 lg:py-20">
       {/* <Tabs value="Day1" className="mb-8">
@@ -75,4 +74,4 @@ export function EventContent() {
   );
 }
 
-export default EventContent;
+export default EventContent2;
