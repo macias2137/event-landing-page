@@ -14,7 +14,7 @@ const EVENT_CONTENT = [
   {
     title: "How to approach dead end pathologies like Coma - case presentation",
     // description: "",
-    name: "Dr Mayuresh Mahajan MD, Homeopath",
+    name: "Dr Mayuresh Mahajan MD, Homeopath, President HHF",
     position: "Bombay, India",
     panel: "Presentation",
     // img: "/image/frass-photo.jpg",
@@ -29,7 +29,7 @@ const EVENT_CONTENT = [
   },
   {
     title:
-      "Actinides in Homeopathy - Threshold of death and the way to inner transformation",
+      "Actinides in Homeopathy - Threshold of death and a path to inner transformation",
     description: "",
     name: "Didier Lustig, LNHF, Paris, France",
     position: "Paris, France",
