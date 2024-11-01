@@ -16,21 +16,21 @@ function Hero() {
             color="white"
             className="mt-1 mb-12 w-full md:max-w-full lg:max-w-2xl"
           >
-            Highlights of the 77th LMHI World Homeopathic Congress (part 1)
+            Highlights of the 77th LMHI World Homeopathic Congress (part 2)
           </Typography>
           <Typography
             variant="lead"
             color="white"
             className="mt-1 mb-12 w-full"
           >
-            <b>26 October 2024, 4&nbsp;pm&ndash;6&nbsp;pm (UTC+2)</b>
+            <b>11 November 2024, 4&nbsp;pm&ndash;6&nbsp;pm (UTC+1)</b>
             <br />
             Join us for the free webinar featuring world&apos;s leading
             homeopaths!
           </Typography>
           <div className="flex items-center gap-4">
             <a
-              href="https://forms.gle/YH9ReYRYxMdCDdFFA"
+              href="https://forms.gle/eB7qKofdfUowS3Rs8"
               rel="noopener noreferrer"
               target="_blank"
             >
