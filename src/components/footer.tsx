@@ -22,7 +22,7 @@ export function Footer() {
           </Typography>
           <div className="flex w-full md:w-fit gap-3 mt-2 flex-col md:flex-row">
             <a
-              href="https://forms.gle/YH9ReYRYxMdCDdFFA"
+              href="https://forms.gle/eB7qKofdfUowS3Rs8"
               rel="noopener noreferrer"
               target="_blank"
             >
