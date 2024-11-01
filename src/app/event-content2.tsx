@@ -12,12 +12,10 @@ import EventContentCard from "@/components/event-content-card";
 
 const EVENT_CONTENT = [
   {
-    title:
-    "How to approach dead end pathologies like Coma - case presentation"
+    title: "How to approach dead end pathologies like Coma - case presentation",
     // description: "",
     name: "Dr Mayuresh Mahajan MD, Homeopath",
-    position:
-      "Bombay, India",
+    position: "Bombay, India",
     panel: "Presentation",
     // img: "/image/frass-photo.jpg",
   },
@@ -30,7 +28,8 @@ const EVENT_CONTENT = [
     // img: "/image/jeggels-photo-min.jpg",
   },
   {
-    title: "Actinides in Homeopathy - Threshold of death and the way to inner transformation",
+    title:
+      "Actinides in Homeopathy - Threshold of death and the way to inner transformation",
     description: "",
     name: "Didier Lustig, LNHF, Paris, France",
     position: "Paris, France",
@@ -38,8 +37,9 @@ const EVENT_CONTENT = [
     // img: "/image/modi-photo-min.jpeg",
   },
   {
-    title: "Homoeopathic Management in a Case of Subacute Brachial Artery Thrombosis",
-// description: ""
+    title:
+      "Homoeopathic Management in a Case of Subacute Brachial Artery Thrombosis",
+    // description: ""
     name: "Yogesh Honrao, MD",
     position: "Nashik, India",
     panel: "Presentation",

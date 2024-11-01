@@ -4,9 +4,9 @@ import { Tab, Tabs, TabsHeader } from "@material-tailwind/react";
 
 import EventContentCard from "@/components/event-content-card";
 
-// import modi from "../../public/image/modi-photo-min.jpeg";
-// import jeggels from "../../public/image/jeggels-photo-min.jpg";
-// import dr_v from "../../public/image/vaishampayan-photo.jpg";
+import modi from "../../public/image/modi-photo-min.jpeg";
+import jeggels from "../../public/image/jeggels-photo-min.jpg";
+import dr_v from "../../public/image/vaishampayan-photo.jpg";
 
 const EVENT_CONTENT = [
   {

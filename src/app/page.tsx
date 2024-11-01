@@ -21,7 +21,7 @@ export default function Portfolio() {
       {/* <OurStats /> */}
       <EventContent2 />
 
-      <EventContent />
+      {/* <EventContent /> */}
       {/* <Faq /> */}
       <Footer />
     </>
