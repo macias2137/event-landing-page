@@ -20,7 +20,8 @@ const EVENT_CONTENT = [
     // img: "/image/frass-photo.jpg",
   },
   {
-    title: "Case presentation: Infective Endocarditis",
+    title:
+      "Traditional Chinese Medicine and Homeopathy - the ideal combination. New treatment in the modern world",
     description: "",
     name: "Dr Huang Wei Ling, MD",
     position: "Brazil",
