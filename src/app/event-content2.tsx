@@ -17,7 +17,7 @@ const EVENT_CONTENT = [
     name: "Dr Mayuresh Mahajan MD, Homeopath, President HHF",
     position: "Bombay, India",
     panel: "Presentation",
-    // img: "/image/frass-photo.jpg",
+    img: "/image/mahajan2 comp.jpg",
   },
   {
     title:
@@ -26,7 +26,7 @@ const EVENT_CONTENT = [
     name: "Dr Huang Wei Ling, MD",
     position: "Brazil",
     panel: "Presentation",
-    // img: "/image/jeggels-photo-min.jpg",
+    img: "/image/huang.jpg",
   },
   {
     title:
@@ -35,7 +35,7 @@ const EVENT_CONTENT = [
     name: "Didier Lustig, INHF, Paris, France",
     position: "Paris, France",
     panel: "Presentation",
-    // img: "/image/modi-photo-min.jpeg",
+    img: "/image/lustig comp.jpg",
   },
   {
     title:
@@ -44,7 +44,7 @@ const EVENT_CONTENT = [
     name: "Yogesh Honrao, MD",
     position: "Nashik, India",
     panel: "Presentation",
-    // img: "/image/vaishampayan-photo.jpg",
+    img: "/image/honrao comp.jpg",
   },
 ];
 
