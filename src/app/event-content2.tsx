@@ -35,7 +35,7 @@ const EVENT_CONTENT = [
     name: "Didier Lustig, INHF, Paris, France",
     position: "Paris, France",
     panel: "Presentation",
-    img: "/image/lustig comp.jpg",
+    img: "/image/lustig comp crop.jpg",
   },
   {
     title:
