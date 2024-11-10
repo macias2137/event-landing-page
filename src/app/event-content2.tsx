@@ -38,8 +38,7 @@ const EVENT_CONTENT = [
     img: "/image/lustig comp crop.jpg",
   },
   {
-    title:
-      "Homoeopathic Management in a Case of Subacute Brachial Artery Thrombosis",
+    title: "Subacute brachial artery thrombosis. A case presentation",
     // description: ""
     name: "Yogesh Honrao, MD",
     position: "Nashik, India",
