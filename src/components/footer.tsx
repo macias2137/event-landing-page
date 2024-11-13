@@ -12,7 +12,7 @@ export function Footer() {
             className="text-2xl md:text-3xl text-center font-bold "
             color="white"
           >
-            Join now for free!
+            Stay tuned for our upcoming events
           </Typography>
           <Typography
             color="white"
@@ -26,9 +26,9 @@ export function Footer() {
               rel="noopener noreferrer"
               target="_blank"
             >
-              <Button color="white" size="md">
+              {/* <Button color="white" size="md">
                 Register
-              </Button>
+              </Button> */}
             </a>
           </div>
         </div>

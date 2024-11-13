@@ -1,6 +1,6 @@
 "use client";
 
-import { Tab, Tabs, TabsHeader } from "@material-tailwind/react";
+import { Tab, Tabs, TabsHeader, Typography } from "@material-tailwind/react";
 
 import EventContentCard from "@/components/event-content-card";
 
@@ -66,6 +66,10 @@ export function EventContent2() {
         </div>
       </Tabs> */}
       <div className="mx-auto container">
+        {/* <h3>PART 2</h3> */}
+        <Typography variant="h4" color="black" className="lg:max-w-3xl">
+          THE BEST OF SEVILLA PART 2, NOV 11
+        </Typography>
         {EVENT_CONTENT.map((props, idx) => (
           <EventContentCard key={idx} {...props} />
         ))}
