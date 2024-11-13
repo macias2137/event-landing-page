@@ -9,7 +9,7 @@ function Hero() {
       <div className="grid min-h-screen px-8">
         <div className="container relative z-10 my-auto mx-auto grid place-items-center text-center">
           <Typography variant="h4" color="white" className="lg:max-w-3xl">
-            We kindly invite you to HHF's upcoming webinar
+            We kindly invite you to HHF&apos;s upcoming webinar
           </Typography>
           <Typography
             variant="h3"
